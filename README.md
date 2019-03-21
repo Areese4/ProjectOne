@@ -1,10 +1,10 @@
-**Author: **
+**Author:**
 Andrew Reese
 
-**Email Address: ** 
+**Email Address:** 
 a.reese626@gmail.com
 
-**Phone Number: ** 
+**Phone Number:** 
 (205)-577-7642
 
 
@@ -72,7 +72,7 @@ Enter Length:
 5
 Volume of your Rectangular Prism is: 80.0
 ```
-**Another Example would be: **
+**Another Example would be:**
 
 ```
 You're choosing option: 4
