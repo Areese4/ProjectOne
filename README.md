@@ -101,4 +101,7 @@ Each .java file is an extension to the option that are given as soon as the prog
 ```
 Import java.util.math;
 ```
-If you keep following along in the Cube.java file, I have V (Volume) equal to radius squared multiplied by pi then we multiply that by the total of height divided by 3 which is easier represented as ( (pi * (radius * radius) * (height/3) )
+If you keep following along in the Cube.java file, I have V (Volume) equal to radius squared multiplied by pi then we multiply that by the total of height divided by 3 which is easier represented as:
+```
+V = ( (pi * (radius * radius) * (height/3) )
+```
