@@ -61,17 +61,16 @@ Once the Clean and Build is finished, and no errors occur, which none should for
 This is after the first part is ran and given the output that was shown above. This is to show what is given based on a couple of different user inputs.
 
 ```
-You're choosing option: 4
-PYRAMID! 
+You're choosing option: 1
+CYLINDER! 
 
-Enter Height:
-Enter Width:
-Enter Length:
-4
-4
-5
-Volume of your Rectangular Prism is: 80.0
+Enter Radius: 
+Enter Height: 
+3
+9
+Volume of your Cylinder is: 254.46900494077323
 ```
+
 **Another Example would be:**
 
 ```
